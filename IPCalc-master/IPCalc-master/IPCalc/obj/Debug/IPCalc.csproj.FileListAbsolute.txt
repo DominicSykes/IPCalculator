@@ -1,0 +1,16 @@
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\bin\Debug\IPCalc.exe.config
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\bin\Debug\IPCalc.exe
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\bin\Debug\IPCalc.pdb
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\IPCalc.csproj.AssemblyReference.cache
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\IPCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\MainWindow.g.cs
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\App.g.cs
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\IPCalc_MarkupCompile.cache
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\IPCalc_MarkupCompile.lref
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\MainWindow.baml
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\IPCalc.g.resources
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\IPCalc.Properties.Resources.resources
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\IPCalc.csproj.GenerateResource.cache
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\IPCalc.csproj.CoreCompileInputs.cache
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\IPCalc.exe
+C:\Users\sykes\Desktop\IPCalc-master\IPCalc-master\IPCalc\obj\Debug\IPCalc.pdb
